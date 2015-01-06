@@ -24,7 +24,7 @@ To compile this I downloaded the code at my home directory and run:
 Move the .beam file to ejabberd ebin folder:
 
 ``` 
-	sudo mod_http_offline.beam /lib/ejabberd/ebin/ 
+	sudo mv mod_http_offline.beam /lib/ejabberd/ebin/ 
 ```
 
 Add "mod_http_offline" to your ejabberd.yml config at "modules" section:
