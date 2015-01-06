@@ -1,11 +1,10 @@
-mod_http_offline_
+mod_http_offline
 ================
 
 Ejabberd module to send a post if users was offline.
 
 
-This module is based on Adam Duke mod__interact, Jason Rowe's post and a lot
-of pieces of code and tips from the web to adapts to work with Ejabber 14.12.
+This module is based on [Adam Duke mod_interact](https://github.com/adamvduke/mod_interact), [Jason Rowe's post](http://jasonrowe.com/2011/12/30/ejabberd-offline-messages/) and a lot of pieces of code and tips from the web to adapts to work with Ejabber 14.12.
 
 Installing
 ----------
